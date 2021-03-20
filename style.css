@@ -2,50 +2,50 @@
     width: 80%;
     margin: auto;
     display: flex;
-     }
-  
-  .vilagoskekfejlec {
+}
+
+.vilagoskekfejlec {
     width: 80%;
     padding: 0;
     margin: auto;
-    background-color: aqua;
+    border-style: solid; 1px;
     height: 120px;
     margin-top: 10px;
-      
-  }
-  
-  .narancsbal {
+}
+
+.narancsbal {
     display: flex;
     order: 2;
-    background-color: orange;
+    border-style: solid; 1px;
     height: 500px;
     flex-grow: 1;
     margin-right: 20px;
-    
-  }
-  
-  .pirosfokepernyo {
+}
+
+.pirosfokepernyo {
     order: 3;
-    background-color: red;
+    border-style: solid; 1px;
     height: 500px;
     flex-grow: 3;
     margin-right: 20px;
-    
-  }
-  
-  .lilajobb {
+}
+
+.lilajobb {
     display: flex;
     order: 4;
-    background-color: purple;
+    border-style: solid; 1px;
     height: 500px;
     flex-grow: 1;
-      
-  }
-  
- 
-  
-  .keklablec {
+}
+
+.keklablec {
     width: 80%;
     margin: auto;
-    background-color: blue;
+    border-style: solid; 1px;
     height: 120px;
+}
+
+
+    #elsogomb, #masodikgomb, #harmadikgomb {
+        background-color: lightgray;
+    }

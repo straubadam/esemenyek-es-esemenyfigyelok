@@ -9,6 +9,6 @@ $('#masodikgomb').click(function () {
 });
 
 $('#harmadikgomb').click(function () {
-    $('button').css('background-color:yellow')
+    $('#elsogomb').css('background-color:yellow;')
 
 });
