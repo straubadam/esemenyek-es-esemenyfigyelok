@@ -8,7 +8,8 @@
     width: 80%;
     padding: 0;
     margin: auto;
-    border-style: solid; 1px;
+    border-style: solid;
+    1px;
     height: 120px;
     margin-top: 10px;
 }
@@ -16,7 +17,8 @@
 .narancsbal {
     display: flex;
     order: 2;
-    border-style: solid; 1px;
+    border-style: solid;
+    1px;
     height: 500px;
     flex-grow: 1;
     margin-right: 20px;
@@ -24,7 +26,8 @@
 
 .pirosfokepernyo {
     order: 3;
-    border-style: solid; 1px;
+    border-style: solid;
+    1px;
     height: 500px;
     flex-grow: 3;
     margin-right: 20px;
@@ -33,7 +36,8 @@
 .lilajobb {
     display: flex;
     order: 4;
-    border-style: solid; 1px;
+    border-style: solid;
+    1px;
     height: 500px;
     flex-grow: 1;
 }
@@ -41,11 +45,11 @@
 .keklablec {
     width: 80%;
     margin: auto;
-    border-style: solid; 1px;
+    border-style: solid;
+    1px;
     height: 120px;
 }
 
-
-    #elsogomb, #masodikgomb, #harmadikgomb {
-        background-color: lightgray;
-    }
+#elsogomb, #masodikgomb, #harmadikgomb {
+    background-color: lightgray;
+}
