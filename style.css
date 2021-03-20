@@ -1,0 +1,51 @@
+.container {
+    width: 80%;
+    margin: auto;
+    display: flex;
+     }
+  
+  .vilagoskekfejlec {
+    width: 80%;
+    padding: 0;
+    margin: auto;
+    background-color: aqua;
+    height: 120px;
+    margin-top: 10px;
+      
+  }
+  
+  .narancsbal {
+    display: flex;
+    order: 2;
+    background-color: orange;
+    height: 500px;
+    flex-grow: 1;
+    margin-right: 20px;
+    
+  }
+  
+  .pirosfokepernyo {
+    order: 3;
+    background-color: red;
+    height: 500px;
+    flex-grow: 3;
+    margin-right: 20px;
+    
+  }
+  
+  .lilajobb {
+    display: flex;
+    order: 4;
+    background-color: purple;
+    height: 500px;
+    flex-grow: 1;
+      
+  }
+  
+ 
+  
+  .keklablec {
+    width: 80%;
+    margin: auto;
+    background-color: blue;
+    height: 120px;
