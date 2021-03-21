@@ -9,9 +9,9 @@ $('#masodikgomb').click(function () {
 });
 
 $('#harmadikgomb').click(function () {
-    let beolvasas = $('#szinbevitel').val(szinbevitel)
-    $('#elsogomb').css('background-color', beolvasas)
-    $('#masodikgomb').css('background-color', beolvasas)
-    $('#harmadikgomb').css('background-color', beolvasas)
+    let beolvasas = $('#szinbevitel').val();
+    $('#elsogomb').css('background-color', beolvasas);
+    $('#masodikgomb').css('background-color', beolvasas);
+    $('#harmadikgomb').css('background-color', beolvasas);
 
 });
